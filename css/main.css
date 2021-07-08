@@ -1,0 +1,12 @@
+body{
+     text-align: center;
+}
+#timer{
+    margin: 250px 0;
+    background-color: black;
+    display: inline-block;
+    font-size: 100px;
+    color: #fff;
+    padding: 50px;
+    border-radius: 20px;
+}
